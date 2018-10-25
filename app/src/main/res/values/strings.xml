@@ -1,0 +1,17 @@
+<resources>
+    <!--application name-->
+    <string name="app_name">Educational App</string>
+
+    <!--name of category numbers (CHAR LIMIT=20)-->
+    <string name="category_numbers">Numbers</string>
+
+    <!--name of category FAMILY-->
+    <string name="category_family">Family Members</string>
+
+    <!--name of category colors-->
+    <string name="category_colors">Colors</string>
+
+    <!--name of category phrases-->
+    <string name="category_phrases">Phrases </string>
+
+</resources>
